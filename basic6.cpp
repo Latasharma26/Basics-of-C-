@@ -26,3 +26,10 @@ cin>>age;
 cout<<"The name of the person is "<<name<<" and the age is "<<age<<".";    
 return 0;
 }
+
+// You are given two numbers 'a' and 'b' as input.
+// You must swap the values of 'a' and 'b'.
+
+void swapNumber(int &a, int &b) {
+    swap (a,b);
+}
