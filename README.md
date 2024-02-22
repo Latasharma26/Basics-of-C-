@@ -7,3 +7,5 @@ basic3.cpp:  calculate total salary of a person
 
 basic4.cpp: SI,add two numbers
 
+basic5.cpp: cout, variable name 
+
